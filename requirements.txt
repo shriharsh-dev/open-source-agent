@@ -1,0 +1,19 @@
+# Core FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# AI Models
+ollama
+openai-whisper
+pyttsx3
+
+# Audio Processing
+scipy
+numpy
+
+# Utilities
+python-dotenv
+uuid
+pathlib
+
